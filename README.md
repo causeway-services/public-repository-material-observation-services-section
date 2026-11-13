@@ -11,4 +11,4 @@ public-repository-material-observation-services-section is a services section of
 
 ## Code custody
 
-This repository holds section data only. The executable code that reads this data lives in [red-cup-engineering/repository-material-observation-service](https://github.com/red-cup-engineering/repository-material-observation-service) (private). Point that engine at a checkout of this repository with `SECTION_DATA_ROOT` (default: the current directory).
+This repository holds section data only. The executable code that reads this data lives in [red-cup-engineering/public-repository-material-observation-services-section](https://github.com/red-cup-engineering/public-repository-material-observation-services-section) (private). Point that engine at a checkout of this repository with `SECTION_DATA_ROOT` (default: the current directory).

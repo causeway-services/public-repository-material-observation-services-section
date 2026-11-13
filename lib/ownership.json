@@ -1,5 +1,5 @@
 {
-  "node": "repository-material-observation-service",
+  "node": "public-repository-material-observation-services-section",
   "owner": "software-development-services-section",
   "owns": ["repository-material-observation law", "provider-local operational receipts", "material projection"],
   "doesNotOwn": ["customer repository", "repository carrier", "semantic equivalence analysis", "execution", "acceptance", "pricing", "settlement", "self-conformance"]
