@@ -1,0 +1,9 @@
+{
+  "name": "@causeway-services/public-repository-material-observation-services-section",
+  "description": "public-repository-material-observation-services-section is a services section of the 561 Group.",
+  "license": "Apache-2.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/causeway-services/public-repository-material-observation-services-section.git"
+  }
+}
